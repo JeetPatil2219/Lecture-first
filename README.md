@@ -12,5 +12,5 @@
         -Winston Churchill
         <br>
         <br>
-        Always remember: <del>give up easily</del> <u>keep trying </u>H<sub>2</sub>O is a simple example of a chemical formula. The theory of relativity is represented as E = mc<sup>2</sup>. 
+        Always remember: <del>give up easily</del> <u>keep trying. </u>H<sub>2</sub>O is a simple example of a chemical formula. The theory of relativity is represented as E = mc<sup>2</sup>. 
     </body>
